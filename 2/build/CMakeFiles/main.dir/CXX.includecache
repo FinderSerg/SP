@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/the_cake/Projects/SP/2/main1.cpp
+sys/types.h
+-
+unistd.h
+-
+ctime
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+thread
+-
+vector
+-
+
