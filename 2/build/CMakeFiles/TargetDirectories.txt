@@ -1,4 +1,0 @@
-/home/the_cake/Projects/SP/2/build/CMakeFiles/rebuild_cache.dir
-/home/the_cake/Projects/SP/2/build/CMakeFiles/edit_cache.dir
-/home/the_cake/Projects/SP/2/build/CMakeFiles/main.dir
-/home/the_cake/Projects/SP/2/build/CMakeFiles/main2.dir
