@@ -70,6 +70,6 @@ int main(int argc, char* argv[]) {
         func(clock(), files[i]);
     }
 
-    cerr << clock() - t << "\n";
+    cerr << "Process time: " << clock() - t << "\n";
     return 0;
 }
